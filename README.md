@@ -1,2 +1,2 @@
-# VFX
+# digiVFX
 NTU
