@@ -1,3 +1,1 @@
-執行指令python feaDetect.py input_image
-過程中會將兩兩貼合的圖片輸出在input資料夾 故跑複數次需要將合成過的圖片刪除
-結果會另外輸出在Result資料夾
+Image Stitching
